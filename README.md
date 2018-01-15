@@ -1,1 +1,1 @@
-# cloudgo-statuc
+# cloudgo-static
